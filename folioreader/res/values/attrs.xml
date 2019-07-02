@@ -11,7 +11,7 @@
     </declare-styleable>
 
     <declare-styleable name="DirectionalViewpager">
-        <attr name="direction" format="string">
+        <attr name="folio_direction" format="string">
             <!-- <enum name="vertical" value="vertical"></enum>
              <enum name="horizontal" value="horizontal"></enum>-->
         </attr>

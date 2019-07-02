@@ -29,7 +29,7 @@ ext {
 }
 
 android {
-    resourcePrefix 'folio_'
+
     useLibrary 'org.apache.http.legacy'
     compileSdkVersion ANDROID_COMPILE_SDK_VERSION
 

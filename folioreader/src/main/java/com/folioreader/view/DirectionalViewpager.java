@@ -347,8 +347,8 @@ public class DirectionalViewpager extends ViewGroup {
     public DirectionalViewpager(Context context, AttributeSet attrs) {
         super(context, attrs);
         TypedArray a = context.obtainStyledAttributes(attrs, R.styleable.DirectionalViewpager);
-        if (a.getString(R.styleable.DirectionalViewpager_direction) != null) {
-            mDirection = a.getString(R.styleable.DirectionalViewpager_direction);
+        if (a.getString(R.styleable.DirectionalViewpager_folio_direction) != null) {
+            mDirection = a.getString(R.styleable.DirectionalViewpager_folio_direction);
         }
         initViewPager();
     }

@@ -14,14 +14,14 @@ ext {
 
     libraryDescription = 'An epub reader for Android'
 
-    siteUrl = 'https://github.com/FolioReader/FolioReader-Android'
-    gitUrl = 'https://github.com/FolioReader/FolioReader-Android.git'
+    siteUrl = 'https://github.com/applicaster/FolioReader'
+    gitUrl = 'https://github.com/applicaster/FolioReader.git'
 
     libraryVersion = FOLIOREADER_SDK_VERSION
 
-    developerId = 'mobisystech'
+    developerId = 'alinababenkoavantize'
     developerName = 'Folio Reader'
-    developerEmail = 'mahavir@codetoart.com'
+    developerEmail = 'a.babenko@avantize.com'
 
     licenseName = 'FreeBSD License'
     licenseUrl = 'https://en.wikipedia.org/wiki/FreeBSD_Documentation_License#License'
